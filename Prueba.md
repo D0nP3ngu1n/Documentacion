@@ -1,8 +1,10 @@
 # Documentacion Trabajo Intermodular
 
-# Mienmbros del Grupo
-- [Inicio](#primer-titulo)
-- [indice](#indice)
-
-## Cambio en el titulo
+## Miembros del Grupo
+    -Efren Gutierrez Cantero
+    -Victor Sanchez 
+    -Adrian Tresgallo
+    -Cesar ...
+    -Adriana?
+    
 
